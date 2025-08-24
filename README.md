@@ -1,16 +1,32 @@
-## Hi there 👋
+# 👋 Hola, soy Marco Neira  
 
-<!--
-**Marconh/Marconh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Apasionado por la **analítica de datos** y la **ingeniería de datos**, con experiencia en:  
+- **Análisis de Datos** 📊  
+- **Ciencia de Datos** 🤖  
+- **Ingeniería de Datos** 🛠️  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##  Herramientas y Tecnologías
+- **Lenguajes:** Python 🐍, R 📐, SQL 🗄️  
+- **Visualización:** Tableau 📊, Power BI 📈  
+- **Bases de Datos & Big Data:** Elasticsearch 🔎, SQL, NoSQL  
+- **Entornos y DevOps:** Docker 🐳, GitHub 💻  
+
+---
+
+## Lo que puedo hacer con datos
+- Desarrollo de pipelines de datos.  
+- Limpieza, transformación y modelamiento de datos.  
+- Dashboards interactivos para la toma de decisiones.  
+- Modelos predictivos y análisis estadístico aplicado.  
+
+---
+
+## 📫 Cómo contactarme
+- 💼 LinkedIn: [Mi perfil](https://www.linkedin.com/in/marco-neira-hernandez-2493a7137)  
+
+
+---
+
+✨ Actualmente continúo profundizando en **Machine Learning**, **arquitectura de datos** y **visualización avanzada**, aplicando estas herramientas en proyectos reales.
